@@ -35,8 +35,6 @@
 <br><br>
 ## Sobre o projeto
 
-<img src="./src/images/design/desktop.gif" alt="Result portfolio page on large desktop" width="603" height="250">
-
 <br>
 
 O portfólio é uma ferramenta essencial que utilizo para apresentar minhas habilidades. É uma espécie de vitrine do meu trabalho, onde posso mostrar de forma concreta e visual o que sou capaz de fazer.
@@ -46,9 +44,6 @@ Acredito que um portfólio forte e bem organizado é uma forma destaque, pois pe
 <strong>Como ficou no mobile</strong>:
 
 <br>
-
-<img src="./src/images/design/mobile.gif" alt="portfolio no mobile" width="153" height="278">
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,13 +83,9 @@ Diversas coisas foram adicionadas ao longo do andamento desse projeto, que esta 
 
 ## Contato
 
-💌 Para me mandar uma mensagem basta usar um dos botões abaixo!<br>
-
-  <a href = "mailto:edilanbusiness@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-333333?style=flat&logo=gmail&logoColor=EA4335" height="25"></a>
-  <a href="https://www.linkedin.com/in/edilan-ribeiro-santos" target="_blank"><img src="https://img.shields.io/badge/-linkedin-333333?style=flat&logo=linkedin&logoColor=0A66C2" height="25"></a> 
-  <a href="https://whatsa.me/5561983769634/?t=Ol%C3%A1,%20vim%20atrav%C3%A9s%20do%20seu%20GitHub!" target="_blank">
-  <img src="https://img.shields.io/badge/-whatsapp-333333?style=flat&logo=whatsapp&logoColor=25D366" height="25"></a>
-
-
+💌 Para me mandar uma mensagem basta usar uma das opções abaixo!<br>
+Email: xxazevedoxx2004@gmail.com<br>
+WhatsApp: (55)53 999095990<br>
+Linkedin: Alexandre Neves de Azevedo<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
