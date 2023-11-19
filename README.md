@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/edilan-ribeiro/my-portfolio">
+  <a href="https://classy-twilight-59a2f6.netlify.app">
     <img src="./src/images/readme/logo.png">
   </a>
 
@@ -12,7 +12,7 @@
     Essa página foi criada para mostrar um pouco das minhas habilidades e projetos
   </p>
   
-  <a href="https://edilan-ribeiro.github.io/my-portfolio/">Clique aqui para ver a página do projeto</a>
+  <a href="https://classy-twilight-59a2f6.netlify.app">Clique aqui para ver a página do projeto</a>
 </div>
 
 <br>
